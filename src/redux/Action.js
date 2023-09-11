@@ -1,7 +1,7 @@
 import axios from 'axios' ;
 // const API_BASE_URL = 'http://localhost:8000' ;
-// const API_BASE_URL = 'https://file-sharing-be-i1so.onrender.com' ;
-const API_BASE_URL="https://file-sharing-be-16hm.onrender.com"
+
+const API_BASE_URL="https://file-sharing-be-pyx8.onrender.com"
 
 
 export const uploading =   async(data)=>{
